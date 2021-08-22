@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, types, executor
 from asyncio import sleep
 
-bot = Bot('1931055784:AAHQIAzOaBPwOcek1f40TWMCKPzfhrufPgI')
+bot = Bot('enter your own token')
 dp = Dispatcher(bot)
 
 
